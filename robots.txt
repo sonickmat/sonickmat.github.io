@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sonickmat.github.io/sitemap
+Sitemap: https://sonickmat.github.io/app/sitemap
+Sitemap: https://sonickmat.github.io/assets/sitemap
+Sitemap: https://sonickmat.github.io/css/sitemap
+Sitemap: https://sonickmat.github.io/includes/sitemap
+Sitemap: https://sonickmat.github.io/item/sitemap
+Sitemap: https://sonickmat.github.io/src/sitemap
